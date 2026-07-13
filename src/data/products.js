@@ -71,6 +71,79 @@ const products = [
     description:
       "1080p HD webcam with auto-focus and built-in microphone. Ideal for video calls and streaming.",
   },
+
+  {
+    id: 9,
+    name: "Gaming Chair",
+    price: 199.99,
+    image:
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=500&h=500&fit=crop",
+    description:
+      "Comfortable gaming chair with ergonomic design, adjustable armrests, and lumbar support.",
+  },
+  {
+    id: 10,
+    name: "Bluetooth Speaker",
+    price: 59.99,
+    image:
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+    description:
+      "Portable Bluetooth speaker with powerful bass, clear sound, and long battery life.",
+  },
+  {
+    id: 11,
+    name: "Smartphone",
+    price: 699.99,
+    image:
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+    description:
+      "Latest smartphone with high-performance processor and advanced camera system.",
+  },
+  {
+    id: 12,
+    name: "Tablet",
+    price: 399.99,
+    image:
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+    description:
+      "Lightweight tablet with high-resolution display and powerful performance.",
+  },
+  {
+    id: 13,
+    name: "Power Bank",
+    price: 34.99,
+    image:
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
+    description:
+      "Fast charging power bank with high capacity and compact portable design.",
+  },
+  {
+    id: 14,
+    name: "Gaming Controller",
+    price: 69.99,
+    image:
+      "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=500&h=500&fit=crop",
+    description:
+      "Wireless gaming controller with responsive buttons and comfortable grip.",
+  },
+  {
+    id: 15,
+    name: "External SSD",
+    price: 119.99,
+    image:
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=500&h=500&fit=crop",
+    description:
+      "High-speed external SSD for quick file transfers, backups, and extra storage.",
+  },
+  {
+    id: 16,
+    name: "Smart LED Lamp",
+    price: 44.99,
+    image:
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&h=500&fit=crop",
+    description:
+      "Smart LED desk lamp with adjustable brightness and modern workspace design.",
+  },
 ];
 
 export function getProducts() {
