@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "Wireless Headphones",
-    price: 99.99,
+    price: 4999,
     image:
       "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
     description:
@@ -11,7 +11,7 @@ const products = [
   {
     id: 2,
     name: "Smart Watch",
-    price: 249.99,
+    price: 14999,
     image:
       "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
     description:
@@ -20,7 +20,7 @@ const products = [
   {
     id: 3,
     name: "Laptop Stand",
-    price: 49.99,
+    price: 1999,
     image:
       "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
     description:
@@ -29,7 +29,7 @@ const products = [
   {
     id: 4,
     name: "Mechanical Keyboard",
-    price: 129.99,
+    price: 6999,
     image:
       "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500&h=500&fit=crop",
     description:
@@ -38,7 +38,7 @@ const products = [
   {
     id: 5,
     name: "USB-C Hub",
-    price: 39.99,
+    price: 2499,
     image:
       "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=500&h=500&fit=crop",
     description:
@@ -47,7 +47,7 @@ const products = [
   {
     id: 6,
     name: "Wireless Mouse",
-    price: 29.99,
+    price: 1499,
     image:
       "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop",
     description:
@@ -56,7 +56,7 @@ const products = [
   {
     id: 7,
     name: "Monitor Stand",
-    price: 79.99,
+    price: 3999,
     image:
       "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500&h=500&fit=crop",
     description:
@@ -65,7 +65,7 @@ const products = [
   {
     id: 8,
     name: "Webcam HD",
-    price: 89.99,
+    price: 4999,
     image:
       "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&h=500&fit=crop",
     description:
@@ -75,7 +75,7 @@ const products = [
   {
     id: 9,
     name: "Gaming Chair",
-    price: 199.99,
+    price: 12999,
     image:
       "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=500&h=500&fit=crop",
     description:
@@ -84,7 +84,7 @@ const products = [
   {
     id: 10,
     name: "Bluetooth Speaker",
-    price: 59.99,
+    price: 2999,
     image:
       "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
     description:
@@ -93,7 +93,7 @@ const products = [
   {
     id: 11,
     name: "Smartphone",
-    price: 699.99,
+    price: 39999,
     image:
       "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
     description:
@@ -102,7 +102,7 @@ const products = [
   {
     id: 12,
     name: "Tablet",
-    price: 399.99,
+    price: 24999,
     image:
       "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
     description:
@@ -111,7 +111,7 @@ const products = [
   {
     id: 13,
     name: "Power Bank",
-    price: 34.99,
+    price: 1999,
     image:
       "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
     description:
@@ -120,7 +120,7 @@ const products = [
   {
     id: 14,
     name: "Gaming Controller",
-    price: 69.99,
+    price: 3499,
     image:
       "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=500&h=500&fit=crop",
     description:
@@ -129,7 +129,7 @@ const products = [
   {
     id: 15,
     name: "External SSD",
-    price: 119.99,
+    price: 8999,
     image:
       "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=500&h=500&fit=crop",
     description:
@@ -138,7 +138,7 @@ const products = [
   {
     id: 16,
     name: "Smart LED Lamp",
-    price: 44.99,
+    price: 2499,
     image:
       "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&h=500&fit=crop",
     description:
